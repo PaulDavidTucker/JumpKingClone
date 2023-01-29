@@ -1,4 +1,4 @@
-#Jumpking project
+##Jumpking project
 
 The project will essentially be a clone of jump king, following animation styles and game mechanics similar to the popular title. 
 
