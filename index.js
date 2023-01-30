@@ -31,7 +31,7 @@ const StaticItem = new Sprite({
   framesMax: 6
 })
 
-const player = new Fighter({
+const player = new Ball({
   position: {
     x: 0,
     y: 0
